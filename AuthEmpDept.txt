@@ -1,0 +1,5 @@
+deptId,department
+101,Accounting
+201,Research
+301,Sales
+401,Operations
